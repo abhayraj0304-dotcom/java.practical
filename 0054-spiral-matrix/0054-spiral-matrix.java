@@ -32,7 +32,6 @@ class Solution {
                 left++;
             }
         }
-
         return arr;
     }
 }
